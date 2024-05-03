@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: " Happy Women’s Day! May you have a day filled with kind words, positive thoughts, happy people, and beautiful moments. Have a very great day, today",
-  text3: "Tôi với Vương ai đẹp trai hơn ._.",
+  text2: " Good morning! I hope you're feeling refreshed and ready to tackle the day ahead. As the sun rises, may it bring you warmth and energy to embark on whatever adventures or challenges await",
+  text3: "Tôi với TFBoys ai đẹp trai hơn ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là cậu sẽ bị ẻ chảy đến suốt cuộc đời  -))",
-  text5: "Vương",
+  text5: "TFBoys",
   text6: "Dũng",
-  text7: "Nêu ba điểm khiến cho bạn nghĩ tôi hơn Vương",
-  text8: "Gửi cho Vương <3",
+  text7: "Nêu ba điểm khiến cho bạn nghĩ tôi hơn TFBoys",
+  text8: "Gửi cho TFBoys <3",
   text9: "Dũng rất rất rất đẹp trai, hòa đồng tốt tính",
   text10: "Tôi biết mà ^^ ",
   text11:
-    "Chúc bạn có cuối ngày 8/3 vui vẻ  -))) ",
+    "May you have a delightful morning filled with joy and positivity!  -))) ",
   text12: "Bonus<3",
 };
 
@@ -36,7 +36,7 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/cuteCat.jpg",
-      imageWidth: 300,
+      imageWidth: 500,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/photo.php?fbid=2979509255667894&set=pb.100008265462500.-2207520000.&type=3";
+            window.location = "https://www.youtube.com/watch?v=EF79jT4rDVs";
           },
         });
       }
